@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\lex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:lex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\smartnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:smartnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\gapbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:gapbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\consolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:consolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\directorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:directorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\calculatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:calculatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\entrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:entrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\tipsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:tipsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\spellchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:spellchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|c:\\users\\danii\\desktop\\coding stuff\\ctte\\ctte.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{638FD1A8-1024-412A-A09F-A1F848E8ADC5}|CTTE.csproj|solutionrelative:ctte.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1929,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Editor.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\Editor.cs",
+              "RelativeDocumentMoniker": "Editor.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\Editor.cs",
+              "RelativeToolTip": "Editor.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:37:45.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntryPoint.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\EntryPoint.cs",
+              "RelativeDocumentMoniker": "EntryPoint.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\EntryPoint.cs",
+              "RelativeToolTip": "EntryPoint.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:44:48.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartNumber.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\SmartNumber.cs",
+              "RelativeDocumentMoniker": "SmartNumber.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\SmartNumber.cs",
+              "RelativeToolTip": "SmartNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:07:56.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorManager.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\CalculatorManager.cs",
+              "RelativeDocumentMoniker": "CalculatorManager.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\CalculatorManager.cs",
+              "RelativeToolTip": "CalculatorManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:58:44.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DirectoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\DirectoryManager.cs",
+              "RelativeDocumentMoniker": "DirectoryManager.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\DirectoryManager.cs",
+              "RelativeToolTip": "DirectoryManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:28:07.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleManager.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\ConsoleManager.cs",
+              "RelativeDocumentMoniker": "ConsoleManager.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\ConsoleManager.cs",
+              "RelativeToolTip": "ConsoleManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:40:41.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GapBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\GapBuffer.cs",
+              "RelativeDocumentMoniker": "GapBuffer.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\GapBuffer.cs",
+              "RelativeToolTip": "GapBuffer.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAcwJ4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:10:34.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\Parser.cs",
+              "RelativeDocumentMoniker": "Parser.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\Parser.cs",
+              "RelativeToolTip": "Parser.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:30:53.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lex.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\Lex.cs",
+              "RelativeDocumentMoniker": "Lex.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\Lex.cs",
+              "RelativeToolTip": "Lex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:30:50.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipsManager.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\TipsManager.cs",
+              "RelativeDocumentMoniker": "TipsManager.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\TipsManager.cs",
+              "RelativeToolTip": "TipsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:00:42.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Spellchecker.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\Spellchecker.cs",
+              "RelativeDocumentMoniker": "Spellchecker.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\Spellchecker.cs",
+              "RelativeToolTip": "Spellchecker.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:58:22.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\FileManager.cs",
+              "RelativeDocumentMoniker": "FileManager.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\FileManager.cs",
+              "RelativeToolTip": "FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:34:39.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALoUAAAAAAAAAAAwwMkUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-18T20:39:13.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CTTE",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\CTTE.csproj",
+              "RelativeDocumentMoniker": "CTTE.csproj",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding stuff\\CTTE\\CTTE.csproj",
+              "RelativeToolTip": "CTTE.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T19:03:50.732Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 110,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 107,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 724,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

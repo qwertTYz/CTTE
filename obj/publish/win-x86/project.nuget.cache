@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZFW/VJvbRxQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danii\\Desktop\\CTTE\\CTTE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danii\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.12\\microsoft.net.illink.tasks.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

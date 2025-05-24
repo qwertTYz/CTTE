@@ -1,0 +1,37 @@
+C:\Users\danii\Desktop\CTTE\bin\Debug\net8.0\CTTE.exe
+C:\Users\danii\Desktop\CTTE\bin\Debug\net8.0\CTTE.deps.json
+C:\Users\danii\Desktop\CTTE\bin\Debug\net8.0\CTTE.runtimeconfig.json
+C:\Users\danii\Desktop\CTTE\bin\Debug\net8.0\CTTE.dll
+C:\Users\danii\Desktop\CTTE\bin\Debug\net8.0\CTTE.pdb
+C:\Users\danii\Desktop\CTTE\obj\Debug\net8.0\CTTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\CTTE\obj\Debug\net8.0\CTTE.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\CTTE\obj\Debug\net8.0\CTTE.AssemblyInfo.cs
+C:\Users\danii\Desktop\CTTE\obj\Debug\net8.0\CTTE.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\CTTE\obj\Debug\net8.0\CTTE.dll
+C:\Users\danii\Desktop\CTTE\obj\Debug\net8.0\refint\CTTE.dll
+C:\Users\danii\Desktop\CTTE\obj\Debug\net8.0\CTTE.pdb
+C:\Users\danii\Desktop\CTTE\obj\Debug\net8.0\CTTE.genruntimeconfig.cache
+C:\Users\danii\Desktop\CTTE\obj\Debug\net8.0\ref\CTTE.dll
+C:\Users\danii\Desktop\CTTE\obj\Debug\net8.0\CTTE.sourcelink.json
+C:\Users\danii\Desktop\CTTE\bin\Debug\net8.0\Vocabulary.dll
+C:\Users\danii\Desktop\CTTE\bin\Debug\net8.0\Vocabulary.pdb
+C:\Users\danii\Desktop\CTTE\obj\Debug\net8.0\CTTE.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\CTTE\obj\Debug\net8.0\CTTE.csproj.Up2Date
+C:\Users\danii\Desktop\coding stuff\CTTE\bin\Debug\net8.0\CTTE.exe
+C:\Users\danii\Desktop\coding stuff\CTTE\bin\Debug\net8.0\CTTE.deps.json
+C:\Users\danii\Desktop\coding stuff\CTTE\bin\Debug\net8.0\CTTE.runtimeconfig.json
+C:\Users\danii\Desktop\coding stuff\CTTE\bin\Debug\net8.0\CTTE.dll
+C:\Users\danii\Desktop\coding stuff\CTTE\bin\Debug\net8.0\CTTE.pdb
+C:\Users\danii\Desktop\coding stuff\CTTE\bin\Debug\net8.0\Vocabulary.dll
+C:\Users\danii\Desktop\coding stuff\CTTE\bin\Debug\net8.0\Vocabulary.pdb
+C:\Users\danii\Desktop\coding stuff\CTTE\obj\Debug\net8.0\CTTE.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\coding stuff\CTTE\obj\Debug\net8.0\CTTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\coding stuff\CTTE\obj\Debug\net8.0\CTTE.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\coding stuff\CTTE\obj\Debug\net8.0\CTTE.AssemblyInfo.cs
+C:\Users\danii\Desktop\coding stuff\CTTE\obj\Debug\net8.0\CTTE.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\coding stuff\CTTE\obj\Debug\net8.0\CTTE.csproj.Up2Date
+C:\Users\danii\Desktop\coding stuff\CTTE\obj\Debug\net8.0\CTTE.dll
+C:\Users\danii\Desktop\coding stuff\CTTE\obj\Debug\net8.0\refint\CTTE.dll
+C:\Users\danii\Desktop\coding stuff\CTTE\obj\Debug\net8.0\CTTE.pdb
+C:\Users\danii\Desktop\coding stuff\CTTE\obj\Debug\net8.0\CTTE.genruntimeconfig.cache
+C:\Users\danii\Desktop\coding stuff\CTTE\obj\Debug\net8.0\ref\CTTE.dll
